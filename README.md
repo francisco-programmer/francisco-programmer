@@ -1,4 +1,4 @@
-<img  alt="MC Technology | YouTube" height="300px" width="900px" src="./src/portada.png" />
+<img  alt="francisco | YouTube" height="300px" width="900px" src="./src/portada.png" />
 
 <h1 align="center">I'm there  Francisco Palencia - Frontend Developer🚀<img src="./src/wave.gif" width="30px"></h1>
 
