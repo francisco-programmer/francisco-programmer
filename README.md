@@ -133,21 +133,3 @@
 
 ---
 
-### 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=francisco-programmer&no-frame=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-[linkedin]: https://www.linkedin.com/in/francisco-palencia/
-[whatsapp]: https://wa.me/+573015984814
-[instagram]: https://www.instagram.com/franciscopalencia14/
-[facebook]: https://m.facebook.com/cicotupapa/
-
-
-[vimtools]: https://github.com/francisco-programmer/newportafolio
-[jailbreakrepo]: https://mctechnology17.github.io/
-[uiglitch]: https://repo.packix.com/package/com.mctechnology.uiglitch/
-[uiswitches]: https://repo.packix.com/package/com.mctechnology.uiswitches/
-[gm]: https://github.com/mctechnology17/gm
-[youtuberepo]: https://github.com/mctechnology17/youtube_repo_mc_technology
