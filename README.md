@@ -11,7 +11,7 @@ my place to invent things :laughing: :laughing:
 
 
 ___
-> ### Blog post 
+> # Blog post 
 
  * <a href="https://www.notii.tech/world/tech%20-companies-that-have-hade-layoffs-in-2023%20.html" target="_blank">Tech Companies That Have Made Layoffs in 2023</a>
  * <a href="https://www.notii.tech/microsoft/bing-the-new-bet%20from-microsoft.html" target="_blank">Bing, Microsoft's new bet to destroy Google, integrate AI into its search engine.</a>
@@ -21,7 +21,10 @@ ___
 
 ___
 
-> ## Languages and tools:
+> # Languages and tools:
+
+
+
 <div>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
@@ -41,6 +44,11 @@ ___
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png" alt="Linux Mint" title="Linux Mint" /></code>
 </div>
+
+
+----
+
+> # stats
 
 
 
