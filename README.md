@@ -1,5 +1,5 @@
 
-![Header](./src/Screenshot%202023-02-08%20at%2020-45-11%20Github%20Profile%20Header%20Generator.png)
+<img src="./src/header.png">
 
 my place to invent things :laughing: :laughing:
 
@@ -48,11 +48,12 @@ ___
 
 ----
 
-> # stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=francisco-programmer&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francisco-programmer&show_icons=true&theme=tokyonight)
+
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=francisco-programmer&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
